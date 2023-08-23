@@ -1,0 +1,2 @@
+en la proxima clase la 5, van a mostrar mas cosas que se le pueden agregar al archivo, como por ejempplo como buscar , si el ususario solo pone dos palalabras  o mayusculasy yoo tengo que hacer a apartir de eso una busqueda.
+Mi tp este solo busca por  palabra exacta.
